@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+body {
+    background-image: url("endless-constellation.svg");
+    text-align: center;
+    margin: 0px;
+    background-color: lightblue;
+}
+
+.heading {
+    font-family: Josefin Sans;
+    font-size: 60px;
+    color:teal;
+}
+
+.link-container {
+    padding-top: 3.5rem;
+    display: flex;
+    flex-direction: column;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.link-design {
+    padding: 0.5rem 1rem;
+    color: navy;
+}
+
+.btn-design {
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 0.5rem;
+    color:navy;
+    cursor: pointer;
+    border: none;
+}

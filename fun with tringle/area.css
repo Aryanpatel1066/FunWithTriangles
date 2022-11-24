@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+body {
+    background-image: url("endless-constellation.svg");
+    text-align: center;
+    margin: 0px;
+    background-color: lightblue;
+}
+
+.nav-bar {
+    text-align: right;
+    font-family: Josefin Sans;
+    font-size: 25px;
+    font-weight: lighter;
+    padding: 2rem;
+    background-color: #EDE9FE;
+    border-bottom-left-radius: 1rem;
+    
+}
+
+.link-design {
+    color: navy;
+    margin-left: 15px;
+    text-decoration: none;
+}
+
+.header {
+    font-family: Josefin Sans;
+    font-size: 60px;
+    color:teal;
+}
+
+label {
+    color: navy;
+    font-family: Josefin Sans;
+    font-size: 20px;
+}
+
+.area-input {
+    font-size: 20px;
+    height: 30px;
+    width: 150px;
+    border-radius: 0.5rem;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+}
+
+#calculate-btn {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #F9FAFB;
+    border: none;
+    border-radius: 0.3rem;
+    color: navy;
+}
+
+#display-answer {
+    padding-top: 3rem;
+    font-family: Josefin Sans;
+    font-size: 40px;
+    font-weight: bold;
+    /* color: #F3F4F6; */
+    color:navy;
+}
+
+p {
+    color:teal;
+    font-family: Josefin Sans;
+    font-size: 20px;
+}
